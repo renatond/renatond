@@ -1,18 +1,18 @@
 ### Olá, eu sou o Renato Domingues. Bem vindo ao meu perfil.
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-
-<!--
-**renatond/renatond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let
+    profile = #table(
+        {"What I","Description"},
+        {
+            {"Am", "Mechanical Engineer | Data Analyst"},
+            {"Work With", "Excel, PowerBI, Python, VBA, Data Science"},
+            {"Do", "Help finding data-driven solutions for business problems"},
+            {"Am Curious About", "Science, aka: How Stuff Work"},
+            {"Love", "Surfing, Travel, Games, Movies & Series, Weight Training, My Dog"},
+            {"Value", "Balance, Commitment, Curiosity, Generosity, Justice"},
+            {"Quote", "The more I know, the more I am"},
+            {"Aspire to", "be a better I then yesterday"}
+        }
+    )
+in
+    profile
