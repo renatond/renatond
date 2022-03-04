@@ -1,8 +1,7 @@
-### Olá, eu sou o Renato Domingues. Bem vindo ao meu perfil.
+```
 
 Let
-
-........profile = #table(
+	profile = #table(
 		{"What I","Description"},
 		{
 			{"Am", "Mechanical Engineer | Data Analyst"},
