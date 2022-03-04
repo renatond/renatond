@@ -1,6 +1,8 @@
 ### Olá, eu sou o Renato Domingues. Bem vindo ao meu perfil.
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+![LinkedIn banner final](https://user-images.githubusercontent.com/23267826/156773378-1fd64e9c-c345-4d32-ae24-bf236ce46ef5.png)
+
+
 <!--
 **renatond/renatond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
