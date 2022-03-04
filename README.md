@@ -1,6 +1,6 @@
-### Olá, eu sou o Renato Domingues, seja muito bem vindo ao meu perfil!
+### Olá, eu sou o Renato Domingues. Bem vindo ao meu perfil.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<i class="devicon-python-plain colored"></i>
 
 
 <!--
