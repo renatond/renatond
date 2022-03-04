@@ -1,4 +1,7 @@
-### Hi there 👋
+### Olá, eu sou o Renato Domingues, seja muito bem vindo ao meu perfil!
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+
 
 <!--
 **renatond/renatond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
