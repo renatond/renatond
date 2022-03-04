@@ -1,6 +1,6 @@
 ### Olá, eu sou o Renato Domingues. Bem vindo ao meu perfil.
 
-	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
 <!--
 **renatond/renatond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
